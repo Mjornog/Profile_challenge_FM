@@ -1,0 +1,16 @@
+*{
+    font-family: 'Kumbh Sans', sans-serif;
+}
+
+body{
+    font-size: 18px;
+    background-color: hsl(185, 75%, 39%);
+    position: fixed;
+}
+
+hr{
+    width: 100%;
+}
+
+
+
